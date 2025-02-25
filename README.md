@@ -35,12 +35,12 @@ A api https://viacep.com.br retorna as seguintews informações para um cep de e
 
 
 ### Observações
-> [!NOTa]
+> [!NOTE]
 > Projeto feito na disciplina de programaçã web  I no curso de analiise e desenvolvimento de sistemas.
 
-> [!IMPORTANTE]
+> [!IMPORTANT]
 > Alguns ceps podem não conter todas as informações.
 
 ## Contatos
-> [!Email]
-> edberkze@gmail.com
+
+Email: edberkze@gmail.com
